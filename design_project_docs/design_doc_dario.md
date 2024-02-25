@@ -4,7 +4,7 @@ The first prototype will consist of a baseplate made from either wood or 3D prin
 
 In a second step a second mounting system will be constructed to hold an infrared camera with which the sun will be tracked. This mounting will be adjusted so that the sun is always centered on the infrared sensor. The azimuth and elevation data gained this way will then be applied to the solar mountings in real time.
 
-A simple model of the mouting can be found in the motor_placement.obj file.
+A simple model of the mounting can be found in the motor_placement.obj file.
 The mouting and the solar panel are very roughly estimated to weigh around 60-80g.
 
 The calculations required for the movements will be made using an Arduino of yet to be defined model.
@@ -24,3 +24,6 @@ The calculations required for the movements will be made using an Arduino of yet
 - 01.04.2024: first tracking software prototype (testing)
 - 08.04.2024: first compound testing
 - later: further development
+
+## Checkups ##
+As we currently don't have enough information on when exactly we want to present a milestone, we would propose to check in every 3-4 weeks and show our progress.
