@@ -4736,4 +4736,4 @@ The calculations required for the movements will be made using an Arduino of yet
 - later: further development
 
 ## Checkups ##
-As we currently don't have enough information on when exactly we want to present a milestone, we would propose to check in every 3-4 weeks and show our progress.
+11.03.2024: first printed mounting
