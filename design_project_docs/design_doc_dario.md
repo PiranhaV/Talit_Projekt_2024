@@ -4,7 +4,7 @@ The first prototype will consist of a baseplate made from either wood or 3D prin
 
 In a second step a second mounting system will be constructed to hold an infrared camera with which the sun will be tracked. This mounting will be adjusted so that the sun is always centered on the infrared sensor. The azimuth and elevation data gained this way will then be applied to the solar mountings in real time.
 
-A simple model of the mounting can be found in the motor_placement.obj file.
+A simple model of the mounting can be seen below.
 
 ```stl
 solid Exported from Blender-3.1.2
